@@ -132,8 +132,6 @@ span img {
     margin: auto;
     justify-content: center;
     align-items: center;
-    container-type: inline-size;
-    container-name: changelayout;
 }
 .secimg {
     z-index: -2;
@@ -278,8 +276,6 @@ h5 {
     font-size: 25rem;
 }
 
-
-
 @media(width <= 1000px){
     html{
         font-size: 4.25%;
@@ -293,8 +289,3 @@ h5 {
         width: 110%;
     }
 }
-/* @container changelayout (width <= 800px){
-    .first{
-        flex-direction: column;
-    }
-} */
